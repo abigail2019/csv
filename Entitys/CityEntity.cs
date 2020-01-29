@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using Cities;
+using System.ComponentModel.DataAnnotations;
+using Models;
 
 namespace Entitys
 {

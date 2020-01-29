@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriteCSV", "WriteCSV\WriteC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriteCSVTests", "WriteCSVTests\WriteCSVTests.csproj", "{0233B105-1853-45E1-9985-8C7BB855E061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{F50680D8-2046-4529-9D9A-D87727BD7562}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{F50680D8-2046-4529-9D9A-D87727BD7562}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entitys", "Entitys\Entitys.csproj", "{D18D3713-E44D-4E1C-AC90-58CC1315594A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{F50680D8-2046-4529-9D9A-D87727BD7562}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F50680D8-2046-4529-9D9A-D87727BD7562}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F50680D8-2046-4529-9D9A-D87727BD7562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18D3713-E44D-4E1C-AC90-58CC1315594A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18D3713-E44D-4E1C-AC90-58CC1315594A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18D3713-E44D-4E1C-AC90-58CC1315594A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18D3713-E44D-4E1C-AC90-58CC1315594A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

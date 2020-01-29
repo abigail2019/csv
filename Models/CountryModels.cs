@@ -2,7 +2,7 @@
 
 namespace Models
 {
-    public class CountryModel
+    public class CountryModels
     {
         public string Name { get; set; }
         public string ISO2 { get; set; }
