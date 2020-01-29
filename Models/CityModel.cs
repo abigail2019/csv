@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Models
 {
-    class CityModel
+   public class CityModel
     {
         public string City_name { get; set; }
         public string City_ascii { get; set; }
